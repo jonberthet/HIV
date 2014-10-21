@@ -1,9 +1,11 @@
-
+#For Mac users, code below works, first, just go into terminal app and type:
+ipython
+#then, Brandon's code works great
 # coding: utf-8
 
 # In[4]:
 
-#import some standard libraries
+#import some standard libraries.
 
 import matplotlib.pyplot as plt
 get_ipython().magic('matplotlib inline')
